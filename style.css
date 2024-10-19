@@ -68,10 +68,6 @@ nav {
     display: flex;
 }
 
-/*.option {
-    gap: 45px;
-}*/
-
 .option li a {
     text-decoration: none;
     color: #2282ff;
@@ -96,10 +92,6 @@ nav {
     font-size: 20px;
     transition: color 0.3s ease;
 }
-
-/*.social-medias a:hover {
-    color: #e63946;
-}*/
 
 /* Ajout d'une animation pour l'ouverture et la fermeture du menu mobile */
 .mobile-menu {
