@@ -234,7 +234,6 @@ nav {
     left: 0;
     right: 0;
     bottom: 0;
-    /*background-color: rgba(34, 130, 255,0.7);*/ /* Noir transparent */
     z-index: 1; /* S'assure que l'overlay est au-dessus de l'image */
     height: 98.8%;
 }
